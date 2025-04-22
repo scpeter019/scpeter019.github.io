@@ -1,7 +1,6 @@
 기쁨 joy
 만족 con
 설렘 flu
-사랑 lov
 감동 tou
 장난 pla
 뿌듯 pro
@@ -14,6 +13,7 @@
 짜증 irr
 무서움 fea
 차가움 col
+미안 sor
 
 당황 emb
 집중 foc
