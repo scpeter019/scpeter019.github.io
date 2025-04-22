@@ -1,0 +1,24 @@
+기쁨 joy
+만족 con
+설렘 flu
+사랑 lov
+감동 tou
+장난 pla
+뿌듯 pro
+애정 aff
+
+슬픔 sad
+실망 dis
+서운 hur
+분노 ang
+짜증 irr
+무서움 fea
+차가움 col
+
+당황 emb
+집중 foc
+긴장 ten
+혼란 con
+부끄 shy
+애매 amb
+차분 cal
